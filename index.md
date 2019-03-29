@@ -12,3 +12,4 @@ The app is a video editing toolbox that includes a variety of video gadgets. Mak
 - Merge Videos: Merge multiple small videos.
 - Video Speed Changer: Support slow and fast changes.
 
+Contact us:yun_tang_tech@163.com
